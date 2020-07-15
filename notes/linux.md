@@ -1,7 +1,7 @@
 
 
 1. 拷贝文件夹到远程服务器
-   1. scp -r  /home/administrator/test/ root@192.168.1.100:/root/
+   1. scp -r  /home/administrator/test/ root@xxx.xxx.x.xxx:/root/
 2. 查看硬盘使用情况
    1. df  -k	以KB为单位显示磁盘使用量和占用率
    2. df -m：以Mb为单位显示磁盘使用量和占用率
